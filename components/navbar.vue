@@ -1,13 +1,13 @@
 <template>
   <div>
-    <div class="bg-gray-100">
+    <div class="bg-gray-100 bg-opacity-50 w-full">
       <nav
         class="
           container
           px-6
           py-8
           mx-auto
-          md:flex md:justify-between md:items-center
+          md:flex md:justify-between
         "
       >
         <div class="flex items-center justify-between">
